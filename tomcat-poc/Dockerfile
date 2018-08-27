@@ -1,5 +1,3 @@
-
-
 FROM tomcat
 
 MAINTAINER rupalib

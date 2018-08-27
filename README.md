@@ -21,6 +21,7 @@ Step 6: Deploy the container
 Step 7: Open the browser on your system and paste the link http://localhost:80
 Step 8: Mention the username and password as ruser2/ruser2
 
+
 You shall be able to see the Hello world application
 
 
